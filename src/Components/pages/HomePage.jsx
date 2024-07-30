@@ -14,7 +14,7 @@ const HomePage = () => {
       <section className="programs">
         <h2>Nuestros Programas</h2>
         <div className="program-card">
-          <img src='../src/img/SoldadorDeMadera.png' alt="Soldador de Madera" />
+          <img src='https://i.postimg.cc/bJDRq5N2/Soldador-De-Madera.png' alt="Soldador de Madera" />
           <div className="program-info">
             <h3>Soldador de Madera</h3>
             <p>Duración: 3 años</p>
@@ -22,7 +22,7 @@ const HomePage = () => {
           </div>
         </div>
         <div className="program-card">
-          <img src="../src/img/ingeneriaDeAire.png" alt="Ingeniería de Aire" />
+          <img src="https://i.postimg.cc/pryQs13d/ingeneria-De-Aire.png" alt="Ingeniería de Aire" />
           <div className="program-info">
             <h3>Ingeniería de Aire</h3>
             <p>Duración: 4 años</p>
@@ -30,7 +30,7 @@ const HomePage = () => {
           </div>
         </div>
         <div className="program-card">
-          <img src="../src/img/arquitectura_De_sueños.jpg" />
+          <img src="https://i.postimg.cc/fyxdqnBD/arquitectura-De-sue-os.jpg" />
           <div className="program-info">
             <h3>Arquitectura de Sombras</h3>
             <p>Duración: 5 años</p>
@@ -38,7 +38,7 @@ const HomePage = () => {
           </div>
         </div>
         <div className="program-card">
-          <img  src='../src/img/programacion de sueños.jpg' alt="Programación de Sueños" />
+          <img  src='https://i.postimg.cc/pTMXG975/programacion-de-sue-os.jpg' alt="Programación de Sueños" />
           <div className="program-info">
             <h3>Programación de Sueños</h3>
             <p>Duración: 2 años</p>
