@@ -1,0 +1,33 @@
+
+.reviews__div {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.reviews__div-li {
+    display: none;
+}
+.reviews__div-li.active {
+    border-radius: 1em;
+    padding: 2em;
+    background-color: rgb(10, 114, 79);
+    display: flex;
+    gap: 1em;
+
+}
+
+.reviews__div-li > div > img {
+    min-height: 50vh;
+}
+
+
+.slider__btn {
+    position: relative;
+    top: 0;
+}
+
+.reviews_description {
+    max-width: 40vw;
+    min-width: 40vw;
+}

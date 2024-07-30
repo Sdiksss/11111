@@ -1,0 +1,64 @@
+.main-content {
+    padding-top: 6em;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .intro {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .intro h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .intro p {
+    font-size: 1.2em;
+    color: #000000;
+  }
+  
+  .programs {
+    margin-top: 40px;
+  }
+  
+  .programs h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .programs ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .programs li {
+    margin-bottom: 30px;
+  }
+  
+  .programs h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .programs p {
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  h3, h2{
+    color: black;
+  }
+
+  .program-card {
+    min-width: 100%;
+    display: flex;
+    gap: 1em;
+    padding: 1em;
+
+  }
+  .program-card > img {
+    max-width: 50vw;
+    max-height: 50vh;
+  }
