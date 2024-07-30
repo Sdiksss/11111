@@ -4,12 +4,12 @@ const Reviews = () => {
   const [currentSlider, setCurrentSlider] = useState(0);
   const proyectos = [
     {
-      imagen: "/src/Components/Shared/styles/gloglo.jpg",
+      imagen: "https://i.postimg.cc/YSHC8GTG/gloglo.jpg",
       titulo: "Dra. Valeria “Valkyrie” Torres",
       descripcion: "Especialista en Psicología del Jugador y profesora en la Universidad Nacional de Sideral Carrion",
     },
     {
-      imagen: "/src/Components/Shared/styles/sideral.jpg", // Asegúrate de que esta ruta sea correcta
+      imagen: "https://i.postimg.cc/WpBztHSw/sideral.jpg", 
       titulo: "Dr. Miguel “Invoker” Castillo",
       descripcion: "Profesor de Matemáticas Aplicadas y Teoría de Juegos en la Universidad Nacional de Sideral Carrion",
     },
